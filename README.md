@@ -2,4 +2,4 @@
 Artificial Intelligence Project :
 * objective: detect hand gestures using multiple ML algorithms and choose the more performed one for the prediction
 * usedTechnologies:
-      ✓ Python, OpenCV, Sklearn
+      Python, OpenCV, Sklearn
